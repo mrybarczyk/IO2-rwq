@@ -9,3 +9,4 @@ This project was to compare different classifiers and how good they were at gues
 2. "is-good-0-1.py", where we're just trying to guess if the wine is good or not. A new column 'is-good' is created where, if value in 'quality' is 7 or higher, a value 1 is added. Otherwise 0 is added. Accuracy improves mostly because there's only a 0-1 guess, not 0-10.
 
 Dataset source: https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
+P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
